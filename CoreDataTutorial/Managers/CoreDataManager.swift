@@ -1,8 +1,10 @@
-# coredata_basic
+//
+//  CoreDataManager.swift
+//  CoreDataTutorial
+//
+//  Created by paige shin on 2023/01/12.
+//
 
-### CoreDataManager
-
-```swift
 import Foundation
 import CoreData
 
@@ -61,5 +63,3 @@ class CoreDataManager {
     
     
 }
-
-```
